@@ -1,0 +1,23 @@
+{
+  "name": "maple-syrup-warrior-day",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maple Syrup Warrior Day",
+  "author": "Will Crane",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.2.1",
+    "gatsby-plugin-gatsby-cloud": "^2.3.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
